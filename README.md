@@ -1,2 +1,2 @@
 # Notification
-Em desenvolvimmento e embreve estará postado
+Em desenvolvimento e em breve estará postado
